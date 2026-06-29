@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+project_02_智能决策仪表盘/
