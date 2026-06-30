@@ -43,14 +43,13 @@
 | **综合** | **12** | **10** | **83.3%** |
 
 ## 📁 项目结构
-
 rag-knowledge-base/
-├── app.py # Streamlit Web 界面
-├── create_vector_db.py # 向量数据库构建
-├── qa_system.py # 核心问答逻辑
-├── test_db.py # 数据库测试
-├── test_report.py # 自动化测试报告
-└── chroma_db/ # 向量数据库（运行时生成）
+├── app.py                    # Streamlit Web 界面
+├── create_vector_db.py       # 向量数据库构建
+├── qa_system.py              # 核心问答逻辑
+├── test_db.py                # 数据库测试
+├── test_report.py            # 自动化测试报告
+└── chroma_db/                # 向量数据库（运行时生成）
 
 text
 
